@@ -1,7 +1,9 @@
 <script setup></script>
 
 <template>
-  <div>你好</div>
+  <div>
+    <el-button>Primary</el-button>
+  </div>
 </template>
 
 <style scoped></style>
